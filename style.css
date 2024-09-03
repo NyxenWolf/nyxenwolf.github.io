@@ -316,7 +316,7 @@ section {
   
 /* EXPERIENCE SECTION */
   
-#experience {
+#cv {
     position: relative;
 }
   
@@ -355,7 +355,7 @@ article .icon {
   
 /* PROJECTS SECTION */
   
-#projects {
+#music {
     position: relative;
 }
   
@@ -382,7 +382,7 @@ article .icon {
   
 /* CONTACT */
   
-#contact {
+#socials {
     display: flex;
     justify-content: center;
     flex-direction: column;
